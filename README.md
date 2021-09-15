@@ -7,3 +7,9 @@ How to use:
 
 run the code.
 the dataset are saved in https://github.com/UCSD-AI4H/COVID-CT.git 
+
+Code Block 23-24 are my writting parts. Other code are edited from others. 
+
+Code reference:
+Block 1-9, 11-14: uses Dr Haider Raza's code https://github.com/sagihaider/TransferLearning_COVID19/blob/main/FineTuning_VGG16_COVID19_TransferLearning.ipynb
+Block 10, 15 : edits from Vincent Liu, Intel Image Classification (CNN - Keras) https://www.kaggle.com/arjunrao2000/beginners-guide-efficientnet-with-keras/notebook
