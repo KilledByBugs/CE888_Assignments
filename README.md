@@ -6,7 +6,7 @@ University of Essex CE888 assignment: Resit Project: Lungs CT-based Classificati
 How to use:
 
 run the code.
-the dataset are saved in https://github.com/UCSD-AI4H/COVID-CT.git 
+the dataset is saved in https://github.com/UCSD-AI4H/COVID-CT.git , /COVID-CT/Images-processed/CT_COVID.zip and  /COVID-CT/Images-processed/CT_NonCOVID.zip
 
 Code Block 23-24 are my writting parts. Other code are edited from others. 
 
