@@ -8,7 +8,7 @@ How to use:
 run the code.
 the dataset is saved in https://github.com/UCSD-AI4H/COVID-CT.git , /COVID-CT/Images-processed/CT_COVID.zip and  /COVID-CT/Images-processed/CT_NonCOVID.zip
 
-Code Block 23-24 are my writting parts. Other code are edited from others. 
+Code Block 16-19 are my writting parts. Other code are edited from others. 
 
 Code reference:
 Block 1-7, 9-13, 20-23: uses Dr Haider Raza's code https://github.com/sagihaider/TransferLearning_COVID19/blob/main/FineTuning_VGG16_COVID19_TransferLearning.ipynb
